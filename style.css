@@ -96,6 +96,11 @@ header {
   color: black;
   font-size: 12px;
 }
+.a {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 2px 15px;
+}
 
 .gallery a:hover {
   cursor: pointer;
